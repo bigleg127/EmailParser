@@ -1,0 +1,8 @@
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\EmailParser\EmailParser\bin\Release\EmailParser.dll
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\EmailParser\EmailParser\bin\Release\EmailParser.pdb
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\EmailParser\EmailParser\bin\Release\Microsoft.Crm.Sdk.Proxy.dll
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\EmailParser\EmailParser\bin\Release\Microsoft.Xrm.Client.dll
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\EmailParser\EmailParser\bin\Release\Microsoft.Xrm.Sdk.dll
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\EmailParser\EmailParser\obj\Release\EmailParser.dll
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\EmailParser\EmailParser\obj\Release\EmailParser.pdb
+C:\Users\darrenhickey\Documents\Visual Studio 2013\Projects\EmailParser\EmailParser\obj\Release\EmailParser.csprojResolveAssemblyReference.cache
